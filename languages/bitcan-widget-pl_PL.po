@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitcan Widget\n"
+"POT-Creation-Date: 2020-01-07 12:00+0100\n"
+"PO-Revision-Date: 2020-01-07 13:10+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bitcan-widget.php:17
+msgid "Bitcan Widget"
+msgstr "Bitcan Widget"
+
+#: bitcan-widget.php:17
+msgid "Bitcan.pl currency exchange widget"
+msgstr "Kantor wymiany Bitcoin – bitcan.pl"
+
+#: bitcan-widget.php:38 bitcan-widget.php:145
+msgid "A fast and secure Bitcoin exchange"
+msgstr "Bezpieczny i szybki kantor Bitcoin"
+
+#: bitcan-widget.php:44
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: bitcan-widget.php:48
+msgid "The widget panel title."
+msgstr "Nazwa nagłówka panelu z widgetem."
+
+#: bitcan-widget.php:53
+msgid "Partner ID:"
+msgstr "ID Partnerski:"
+
+#: bitcan-widget.php:57
+msgid "Affiliate Code."
+msgstr "Kod partnerski."
+
+#: bitcan-widget.php:62
+msgid "Headline text:"
+msgstr "Tekst nagłówka:"
+
+#: bitcan-widget.php:66
+msgid "Header text placed inside the widget."
+msgstr "Nagłówek wyświetlający się w widżecie."
+
+#: bitcan-widget.php:71
+msgid "Default amount:"
+msgstr "Domyślna kwota:"
+
+#: bitcan-widget.php:75
+msgid ""
+"Default exchange amount. It cannot be less than 50 or greater than 1000."
+msgstr ""
+"Domyślna kwota wymiany. Nie może być mniejsza od 50 ani większa od 1000."
+
+#: bitcan-widget.php:80
+msgid "Size:"
+msgstr "Rozmiar:"
+
+#: bitcan-widget.php:85
+msgid "Small"
+msgstr "Mały"
+
+#: bitcan-widget.php:88
+msgid "Big:"
+msgstr "Duży:"
+
+#: bitcan-widget.php:91
+msgid ""
+"The change will only be visible if the place where the widget is placed is "
+"large enough. Otherwise it doesnt matter what is chosen here."
+msgstr ""
+"Zmiana będzie widoczna jedynie w miejscu gdzie jest wystarczająco duża "
+"przestrzeń. W innym wypadku wybór nie ma znaczenia."
+
+#: bitcan-widget.php:96
+msgid "Own styles:"
+msgstr "Własne style:"
+
+#: bitcan-widget.php:100
+msgid "Relative or absolute style sheet address for the given widget."
+msgstr "Relatywna lub absolutna ścieżka do stylów dla danego widżetu."
